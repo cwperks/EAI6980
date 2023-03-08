@@ -26,3 +26,7 @@ Once all of the project dependencies are installed, run the jupyter notebook:
 ```
 jupyter notebook
 ```
+
+### Autogluon
+
+Installation instructions for AutoGluon can be found [here](https://auto.gluon.ai/stable/install.html).
