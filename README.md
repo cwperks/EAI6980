@@ -21,6 +21,12 @@ Next, install the project dependencies:
 pip3 install -R requirements.txt
 ```
 
+To see visualizations of the keras Neural Networks you must also install graphviz. On a Mac you can use homebrew and execute:
+
+```
+brew install graphviz
+```
+
 Once all of the project dependencies are installed, run the jupyter notebook:
 
 ```
